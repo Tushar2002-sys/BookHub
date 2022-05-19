@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728344820655",
+    "project_id": "bookhub-563b8",
+    "storage_bucket": "bookhub-563b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728344820655:android:eeefab0c51c522b40a0d5a",
+        "android_client_info": {
+          "package_name": "com.internshala.bookhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728344820655-jn1ptcgassh83qivpkm95i5vul3b0na4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqMW5S6KeAO1O3s5OedC1YMpBdR5E_G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728344820655-jn1ptcgassh83qivpkm95i5vul3b0na4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
